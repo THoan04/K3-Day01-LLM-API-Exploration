@@ -2,8 +2,8 @@
 
 Xem hướng dẫn step-by-step ở website: https://codelabs.vlearn.dev/codelab/day1-lab-llm-api-foundation 
 Đăng nhập bằng tài khoản vlearn đã được kích hoạt:
-- Tên tài khoản: mail vinuni
-- Mật khẩu: mã số sinh viên
+- Tên tài khoản: 26ai.hoanvt@vinuni.edu.vn
+- Mật khẩu: 2A202601481
 
 ## Mục Tiêu
 
